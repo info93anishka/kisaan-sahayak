@@ -23,3 +23,22 @@ End-to-End ML Pipeline
     Feature engineering
     Model training and persistence
     Prediction interface
+
+
+
+**Project Structure**
+sih_app/
+│
+├── app.py                  # Main application entry point
+├── ml_model.py             # Crop prediction model (training + inference)
+├── disease_model.py        # Disease detection (currently placeholder)
+│
+├── data/
+│   └── Crop_recommendation.csv
+│
+├── crop_model.pkl          # Trained Random Forest model
+├── scaler.pkl              # Feature scaler
+├── label_encoder.pkl       # Label encoder
+├── model_features.pkl      # Feature schema
+│
+└── __pycache__/            # Compiled files

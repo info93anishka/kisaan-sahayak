@@ -1,0 +1,16 @@
+Tech Stack
+    Languages: Python
+    ML Libraries:
+    Scikit-learn
+    TensorFlow / Keras
+    Pandas, NumPy
+
+
+Modeling Techniques:
+    Random Forest Classifier
+    Feature Engineering
+    Standard Scaling
+
+
+Deployment (Planned):
+    Flask / Streamlit (via app.py)

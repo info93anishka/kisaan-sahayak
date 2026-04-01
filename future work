@@ -1,0 +1,12 @@
+**Current Limitations**
+    Disease model is not yet trained (placeholder logic)
+    No UI/Frontend (backend-ready system)
+    Model performance tuning can be further optimized
+
+
+** Future Roadmap**
+    Train and integrate disease detection model
+    Build user-friendly UI (mobile/web)
+    Add real-time weather API integration
+    Deploy as a scalable cloud-based service
+    Support multilingual farmer interface
